@@ -1,0 +1,56 @@
+<div class="container">
+    <header>
+        <ul>
+            <li class="iconfont">&#xe619;</li>
+            <li>
+                <span class="active">膳食</span>
+                <span>服装</span>
+            </li>
+            <li class="iconfont">&#xe619;</li>
+        </ul>
+    </header>
+    <nav>
+        <ul>
+            <li class="active">足球小姐</li>
+            <li>足球小姐</li>
+            <li>足球小姐</li>
+        </ul>
+    </nav>
+    <section>
+    	<ul>
+     <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+	 <li><span><i><img src="/webapp/images/11.jpg"/></i><b>刘东</b></span></li>
+    	</ul>
+    </section>
+    <footer>
+    	<ul>
+    		<li class="active">
+    			<i class="iconfont">&#xe619;</i>
+    			<b>首页</b>
+    		</li>
+    		<li>
+    			<i class="iconfont">&#xe619;</i>
+    			<b>发现</b>
+    		</li>
+    		<li>
+    			<i class="iconfont">&#xe619;</i>
+    		</li>
+    		<li>
+    			<i class="iconfont">&#xe619;</i>
+    			<b>我的</b>
+    		</li>
+    		<li>
+    			<i class="iconfont">&#xe619;</i>
+    			<b>退出</b>
+    		</li>
+    	</ul>
+    </footer>
+</div>
